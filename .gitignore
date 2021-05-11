@@ -1,3 +1,11 @@
 # nodejs
 node_modules/
 build
+# Gauge - metadata dir
+.gauge
+
+# Gauge - log files dir
+logs
+
+# Gauge - JavaScript node dependencies
+.DS_Store
